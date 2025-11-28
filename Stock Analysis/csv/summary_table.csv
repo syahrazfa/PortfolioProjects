@@ -1,0 +1,6 @@
+ticker,avg_return_pct,volatility_pct,best_month_pct,worst_month_pct,positive_months,negative_months,max_drawdown_pct,sharpe_ratio
+TSLA,4.50,18.24,81.07,-36.73,99,86,-67.72,0.2466
+MSFT,2.30,9.34,53.48,-34.36,286,182,-69.17,0.2457
+NVDA,4.13,17.47,83.19,-48.61,196,124,-87.22,0.2365
+AMZN,3.50,16.22,126.43,-41.13,203,139,-93.07,0.2157
+AAPL,2.36,12.01,45.32,-57.72,278,214,-80.70,0.1965

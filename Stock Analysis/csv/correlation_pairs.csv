@@ -1,0 +1,11 @@
+ticker_a,ticker_b,correlation,n_months,correlation_scale
+AAPL,NVDA,0.4684,323,Moderate
+AMZN,MSFT,0.4338,343,Moderate
+AAPL,MSFT,0.4319,477,Moderate
+MSFT,NVDA,0.4078,323,Moderate
+AMZN,NVDA,0.3919,323,Weak
+AAPL,TSLA,0.3683,186,Weak
+AMZN,TSLA,0.3237,186,Weak
+AAPL,AMZN,0.3127,343,Weak
+NVDA,TSLA,0.2747,186,Weak
+MSFT,TSLA,0.2669,186,Weak
